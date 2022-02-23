@@ -122,11 +122,11 @@ button:focus {
         margin-top: -100px;
     }
     .nature {
-        font-size: 1rem;
+        font-size: 12px;
     }
     .left-slide p {
         font-size: 12px;
     footer {
-        right: 32.5%;
+        right: 10px;
     }
 }
