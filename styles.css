@@ -121,9 +121,12 @@ button:focus {
         align-items: center;
         margin-top: -100px;
     }
+    .nature {
+        font-size: 1rem;
+    }
     .left-slide p {
         font-size: 12px;
     footer {
-        right: 15px;
+        right: 32.5%;
     }
 }
