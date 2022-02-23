@@ -115,6 +115,7 @@ button:focus {
 @media (max-width: 800px) {
     .left-slide h1 {
         font-size: 25px;
+        align-items: center;
         margin-top: -100px;
     }
 }
