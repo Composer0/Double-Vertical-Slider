@@ -111,3 +111,10 @@ button:focus {
     border-bottom-right-radius: 5px;
     border-top-right-radius: 5px;
 }
+
+@media (max-width: 800px) {
+    .left-slide h1 {
+        font-size: 25px;
+        margin-top: -100px;
+    }
+}
